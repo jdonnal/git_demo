@@ -1,7 +1,7 @@
 How to Use Git
 ==============
 
-By: Alice
+By: Alice and Bob
 
 
 Introduction:
@@ -24,3 +24,12 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean at ultrices nisi, 
 non sodales nisl. Aliquam convallis ex at est tristique, nec convallis mi faucibus. Vestibulum 
 ullamcorper pellentesque risus eu laoreet. Sed pretium arcu justo.
+
+Pull and Push:
+--------------
+Vestibulum finibus risus quis vestibulum eleifend. Duis ut eros euismod, ultrices nunc nec, 
+commodo massa. Quisque eu sem eu urna laoreet dapibus. Ut ac augue magna. Nunc eleifend aliquam egestas. 
+Maecenas pretium egestas lacus in auctor. Proin magna mauris, laoreet vel sodales in, pretium nec tellus. 
+Sed eu sem quis lorem pharetra sollicitudin. Nulla quis suscipit ipsum, nec feugiat nibh. Ut accumsan commodo 
+leo, non efficitur odio imperdiet in. Ut feugiat, dolor ut tristique pretium, lorem magna auctor leo, iaculis 
+sodales mi tortor ac neque. Praesent ultricies enim ac condimentum mollis.
