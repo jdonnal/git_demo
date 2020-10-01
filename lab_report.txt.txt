@@ -36,4 +36,4 @@ sodales mi tortor ac neque. Praesent ultricies enim ac condimentum mollis.
 
 Credits
 -------
-Alice did all the work
+Alice did parts 1 and 2 while Bob did part 3
