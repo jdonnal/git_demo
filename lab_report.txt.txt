@@ -1,0 +1,17 @@
+How to Use Git
+==============
+
+By: Alice
+
+
+Introduction:
+-------------
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc venenatis sem nec eros tempor, 
+non rhoncus nibh feugiat. Morbi a ullamcorper purus. Nullam enim ante, commodo ut felis eu, 
+varius maximus quam. Suspendisse hendrerit eros ut purus dapibus tincidunt. Duis sodales 
+condimentum turpis. Mauris feugiat, nisl at commodo ultrices, tortor metus dignissim ligula, 
+feugiat feugiat justo elit ut velit. Proin venenatis iaculis neque tempor vulputate. Fusce 
+malesuada suscipit lorem, a lacinia libero cursus sed. Aliquam egestas in eros vel bibendum. 
+Nam blandit mi est, sit amet consectetur orci sollicitudin a. Donec vitae rutrum quam, vel 
+accumsan odio. Vivamus lorem ante, porttitor venenatis ultrices a, mattis eget turpis. 
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
