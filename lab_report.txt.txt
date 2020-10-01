@@ -33,3 +33,7 @@ Maecenas pretium egestas lacus in auctor. Proin magna mauris, laoreet vel sodale
 Sed eu sem quis lorem pharetra sollicitudin. Nulla quis suscipit ipsum, nec feugiat nibh. Ut accumsan commodo 
 leo, non efficitur odio imperdiet in. Ut feugiat, dolor ut tristique pretium, lorem magna auctor leo, iaculis 
 sodales mi tortor ac neque. Praesent ultricies enim ac condimentum mollis.
+
+Credits
+-------
+Alice did all the work
