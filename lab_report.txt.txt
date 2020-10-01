@@ -13,5 +13,14 @@ condimentum turpis. Mauris feugiat, nisl at commodo ultrices, tortor metus digni
 feugiat feugiat justo elit ut velit. Proin venenatis iaculis neque tempor vulputate. Fusce 
 malesuada suscipit lorem, a lacinia libero cursus sed. Aliquam egestas in eros vel bibendum. 
 Nam blandit mi est, sit amet consectetur orci sollicitudin a. Donec vitae rutrum quam, vel 
-accumsan odio. Vivamus lorem ante, porttitor venenatis ultrices a, mattis eget turpis. 
+accumsan odio. Vestibulum finibus risus quis vestibulum eleifend. Vivamus lorem ante, porttitor venenatis ultrices a, mattis eget turpis. 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+Commits:
+--------
+Praesent consequat mi eget condimentum finibus. Ut vitae mattis risus, quis porta magna. 
+Aenean dignissim leo semper laoreet dictum. Cras urna turpis, fringilla id est ac, tempor rutrum ipsum. 
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum ante 
+ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean at ultrices nisi, 
+non sodales nisl. Aliquam convallis ex at est tristique, nec convallis mi faucibus. Vestibulum 
+ullamcorper pellentesque risus eu laoreet. Sed pretium arcu justo.
